@@ -1,0 +1,67 @@
+/* IMPORT RESET */
+@import url("reset.css");
+
+/* IMPORT 12 COLUMN RESPONSIVE GS */
+@import url("responsive.gs.12col.css");
+
+html { 
+  background: url(../img/bg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#bold {
+	font-family: 'Droid Sans', sans-serif;
+	font-weight: 700;
+	color: #FFF;
+	font-size: 50px;
+	padding: 170px 0 0 200px;
+	text-shadow: black 0.1em 0.1em 0.2em
+}
+
+#standard {
+	font-family: 'Lato', sans-serif;
+	font-weight: 100;
+	color: #FFF;
+	font-size: 50px;
+	padding: 10px 0 0 200px;
+	text-shadow: black 0.1em 0.1em 0.2em
+}
+
+#teaser {
+	font-family: 'Droid Sans', sans-serif;
+	color: #2f476b;
+	padding: 30px 0 0 200px;
+	font-size: 20px;
+}
+
+#email {
+	width: 350px;
+	height: 50px;
+	margin-left: 200px;
+	font-family: 'Source Sans Pro', sans-serif; font-weight: 400;
+	margin: 25px 0 0 200px;
+	color: #d9d9d9;
+}
+
+#subscribe {
+	height: 50px;
+	width: 80px;
+	font-size: 35px;
+	margin: 25px 0 0 10px;
+	position: absolute;
+	background-color: #2f476b;
+	border-style: none;
+	color: white;
+	font-family: 'Source Sans Pro', sans-serif; font-weight: 400;
+}
+
+#sig {
+	margin: 30px 0 0 200px;
+	color: #b6c2ce;
+	font-family: 'Source Sans Pro', sans-serif; font-weight: 400;
+}
+
+/* Styled With A Sense of Wonder by Al Mon */
