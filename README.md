@@ -15,5 +15,5 @@ Each project folder contains all the original PSD files, as well as the sliced v
 
 ## Day #3 - Mobile
 ![Mobile](Day%20%233%20-%20Mobile/1.-%20Originals/Mobile.jpg)
-### Live URL: [Mobile](http://wd2.surge.sh/)
+### Live URL: [Mobile](http://wd3.surge.sh/)
 ------
