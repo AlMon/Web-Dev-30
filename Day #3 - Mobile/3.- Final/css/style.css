@@ -1,0 +1,96 @@
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+#hero {
+	background: #44b76f;
+	color: #FFF;
+	padding-top: 50px;
+	padding-bottom: 75px;
+}
+
+#intro {
+	padding-top: 20px;
+}
+
+#btns {
+	padding-top: 20px;
+}
+
+#cta {
+	width: 135px;
+	height: 49px;
+	color: #44b76f;
+	text-transform: uppercase;
+	border-style: none;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	font-weight: bold;
+
+}
+
+#lm {
+	width: 135px;
+	height: 49px;
+	text-transform: uppercase;
+	background-color: #44b76f;
+	color: #FFF;
+	border-color: #FFF;
+	margin-bottom: 20px;
+	font-weight: bold;
+}
+
+#main {
+	background: #FFF;
+	padding-top: 30px;
+	padding-bottom: 50px;
+}
+
+#iphone-b {
+	padding-top: 50px;
+}
+
+.title {
+	color: #44b76f;
+	padding-top: 100px;
+}
+
+.subtitle {
+	color: #acacac;
+	line-height: 30px;
+	padding-bottom: 50px;
+}
+
+#bottom {
+	background: #F6F6F6;
+	padding-top: 30px;
+	padding-bottom: 50px;
+}
+
+#scl {
+	margin-top: 40px;
+	margin-bottom: 20px;
+}
+
+.social {
+	margin-left: 25px;
+	margin-bottom: 10px;
+}
+
+footer a {
+	color: #acacac;
+}
+
+#fla {
+	margin-bottom: 20px;
+}
+
+.fl {
+	text-transform: uppercase;
+	margin-left: 30px;
+}
+
+#ft {
+	color: #acacac;
+	margin-bottom: 30px;
+}
