@@ -1,0 +1,201 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+	color: #34495e;
+}
+
+header { 
+  background: url(../img/header.jpg); 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: #FFF;
+  height: 800px;
+}
+
+header ul {
+	list-style-type: none;
+	margin-top: 6.7%;
+}
+
+header li {
+	display: inline;
+	padding: 0 18px 0 0;
+}
+
+header ul li a {
+	color: #FFF;
+	padding-bottom: 15px;
+}
+
+header ul li a:hover {
+	border-bottom: 3px solid #1abc9c;
+	text-decoration: none;
+	color: #FFF;
+}
+
+header h2 {
+	font-weight: 600;
+	margin-top: 19%;
+}
+
+#logo {
+	padding: 20px 0 0 0;
+}
+
+#iPad {
+	margin-top: 50px;
+}
+
+header p {
+	margin: 25px 0;
+}
+
+.gbtn {
+	color: #FFF;
+	background: #1abc9c;
+	border-style: none;
+	width: 130px;
+	height: 50px;
+}
+
+.bbtn {
+	color: #FFF;
+	background: #3498db;
+	border-style: none;
+	width: 130px;
+	height: 50px;
+}
+
+.gbtn:hover {
+	color: #1abc9c;
+	background: transparent;
+	border: 1px solid #1abc9c;
+}
+
+.bbtn:hover {
+	color: #3498db;
+	background: transparent;
+	border: 1px solid #3498db;
+}
+
+header span {
+	color: #FFF;
+}
+
+.about-us {
+	margin: 10px 0 40px 0;
+}
+
+.features {
+	background: #f6f6f6;
+	padding-top: 1.5%;
+}
+
+.features p {
+	font-size: 13px;
+}
+
+.blocks {
+	padding: 10px 0;
+}
+
+.slider {
+	background: url(../img/lbg.jpg);
+	background-repeat: no-repeat;
+	color: #FFF;
+}
+
+.slider img {
+	padding: 50px 0 0 0;
+}
+
+.glyphicon-chevron-left {
+	color: #FFF;
+	
+}
+
+.glyphicon-chevron-right {
+	color: #FFF;
+	
+}
+
+
+.testimonials img {
+	display: block;
+}
+
+.testimonials h1 {
+	font-weight: 300;
+	padding: 10px 0;
+}
+
+.testimonials .row {
+	padding: 20px 0;
+}
+
+.testimonials h3 {
+	padding-left: 170px;
+}
+
+.testimonials p {
+	margin-left: 170px;
+	font-size: 13px;
+}
+
+.contact {
+	background: #34495e;
+}
+
+.contact { 
+	color: #FFF;
+	padding: 5% 0;	
+}
+
+.contact p {
+	font-weight: 300;
+}
+
+.contact form input {
+	background: #5d6d7d;
+	border-style: none;
+	border-radius: 3px;
+	height: 40px;
+	text-indent: 5px;
+	margin-right: 8px;
+}
+
+.contact select {
+	background: #5d6d7d;
+	border-style: none;
+	border-radius: 3px;
+	margin: 10px 0;
+	width: 67.5%;
+	color: #c1c6ca;
+	padding: 10px 0;
+}
+
+.contact textarea {
+	background: #5d6d7d;
+	border-style: none;
+	border-radius: 3px;
+	text-indent: 5px;
+	padding-top: 10px;
+	
+}
+
+.btgroup {
+	margin-top: 3%;
+	padding-left: 20%;
+}
+
+footer {
+	padding-top: 7px;
+	color: #FFF;
+	background: #2d3e50;
+	height: 100px;
+}
+
+footer p {
+	padding: 37px 0 0 0;
+}
