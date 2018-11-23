@@ -17,3 +17,8 @@ Each project folder contains all the original PSD files, as well as the sliced v
 ![Mobile](Day%20%233%20-%20Mobile/1.-%20Originals/Mobile.jpg)
 ### Live URL: [Mobile](http://wd3.surge.sh/)
 ------
+
+## Day #4 - Claymore
+![Claymore](Day%20%234%20-%20Claymore/1.-%20Originals/Claymore.jpg)
+### Live URL: [Claymore](http://wd4.surge.sh/)
+------
