@@ -1,0 +1,92 @@
+body {
+	font-family: 'Varela Round', sans-serif;
+	color: #FFF;
+}
+
+nav {
+	padding: 15px 0;
+}
+
+nav li {
+	display: inline;
+	list-style-type: none;
+	text-transform: uppercase;
+	padding: 0 20px;
+	color: grey;
+}
+
+nav ul :last-child {
+	background: #0ebfdd;
+	color: #FFF;
+	padding: 8px 25px;
+	border-radius: 13px;
+}
+
+header {
+	background: url(../img/header.jpg) no-repeat center center scroll;
+	height: 600px;
+	padding: 300px 0 0 0;
+}
+
+#about {
+	padding: 15px 0 40px 0;
+}
+
+#about h1 {
+	color: #0ebfdd;
+}
+
+#about p {
+	color: rgb(110, 110, 110);
+}
+
+#team {
+	background: #0ebfdd;
+}
+
+#team h1 {
+	padding: 20px 0 30px 0;
+}
+
+#team img {
+	padding: 8px 0;
+}
+
+#team button {
+	text-transform: uppercase;
+	border-radius: 19px;
+	background: transparent;
+	border-color: #FFF;
+	color: #FFF;
+	font-weight: bold;
+	padding: 10px 25px;
+	margin-top: 25px;
+	margin-bottom: 35px;
+}
+
+footer {
+	background: #45494d;
+}
+
+footer ul {
+	padding: 19px 0;
+}
+
+footer li {
+	list-style-type: none;
+	display: inline;
+	text-transform: uppercase;
+	padding: 0 15px;
+}
+
+footer a {
+	color: #d7dee4;
+}
+
+footer img {
+	padding: 10px 9px;
+}
+
+footer p {
+	color: #d7dee4;
+}
