@@ -22,3 +22,9 @@ Each project folder contains all the original PSD files, as well as the sliced v
 ![Claymore](Day%20%234%20-%20Claymore/1.-%20Originals/Claymore.jpg)
 ### Live URL: [Claymore](http://wd4.surge.sh/)
 ------
+
+## Day #5 - Label
+![Label](Day%20%235%20-%20Label/1.-%20Originals/Label.png)
+### Live URL: [Label](http://wd5.surge.sh/)
+------
+
