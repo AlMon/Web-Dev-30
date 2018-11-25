@@ -33,5 +33,8 @@ Each project folder contains all the original PSD files, as well as the sliced v
 ### Live URL: [Under Construction](http://wd6.surge.sh/)
 ------
 
-
+## Day #7 - Logo LP
+![Logo LP](Day%20%237%20-%20Logo%20LP/1.-%20Originals/Logo%20LP.jpg)
+### Live URL: [Logo LP](http://wd7.surge.sh/)
+------
 
