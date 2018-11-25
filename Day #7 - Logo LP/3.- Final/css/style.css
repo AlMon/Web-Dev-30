@@ -1,0 +1,82 @@
+body {
+	font-family: 'Lato', sans-serif;
+	color: #333333;
+}
+
+header {
+	background: #30353e;
+}
+
+nav ul {
+	padding-top: 25px;
+}
+
+nav li {
+	text-transform: uppercase;
+	list-style-type: none;
+	display: inline;
+	font-weight: 700;
+	padding: 0 10px;
+}
+
+nav a {
+	color: #828d93;
+}
+
+nav img {
+	margin: 17px 0;
+}
+
+#sc {
+	padding: 45px 0;
+}
+
+#down-arrow {
+	margin-top: 15%;
+}
+
+#testimonials {
+	margin: 33px 0;
+}
+
+#testimonials .container {
+	background: #ededed;
+}
+
+#testimonials ul {
+	padding: 0; 
+	margin: 0;
+}
+
+#testimonials li {
+	list-style-type: none;
+}
+
+#prof-pic {
+	margin-left: 0;
+	padding-left: 0;
+}
+
+#mobile p {
+	padding: 15px 0
+}
+
+#mobile ul {
+	padding-bottom: 15px;
+}
+
+#bullet-points {
+	padding: 0 0 30px 0;
+}
+
+#bullet-points a {
+	color: #444;
+	font-weight: 700;
+	text-decoration: underline;
+}
+
+footer {
+	background: #2f343d;
+	color: #828d93;
+	padding: 25px 0;
+}
