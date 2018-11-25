@@ -28,3 +28,10 @@ Each project folder contains all the original PSD files, as well as the sliced v
 ### Live URL: [Label](http://wd5.surge.sh/)
 ------
 
+## Day #6 - Under Construction
+![Under Construction](Day%20%236%20-%20Under%20Contruction/1.-%20Originals/Under%20Construction.png)
+### Live URL: [Under Construction](http://wd6.surge.sh/)
+------
+
+
+
