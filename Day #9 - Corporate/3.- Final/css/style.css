@@ -1,0 +1,191 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+body h1 {
+	font-weight: 700;
+}
+
+header {
+	background: url(../img/header.jpg);
+	height: 550px;
+	color: #FFF;
+}
+
+header img {
+	padding: 20px 0;
+}
+
+header ul {
+	padding: 17px 0;
+}
+
+header li {
+	list-style-type: none;
+	display: inline;
+	padding: 0 10px;
+}
+
+header li a {
+	color: #FFF;
+}
+
+header h1 {
+	font-weight: 700;
+	margin-top: 80px;
+}
+
+header p {
+	padding: 20px 0;
+}
+
+#bt1 {
+	padding: 10px 25px;
+	border-color: transparent;
+	background: #2095bc;
+	color: #FFF;
+}
+
+#bt2 {
+	padding: 10px 35px;
+	color: #FFF;
+	background: transparent;
+	margin-left: 10px;
+}
+
+#info {
+	background: #f7f8fa;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-color: #7e848e;
+	padding-bottom: 35px;
+}
+
+#info h1 {
+	color: #3e434a;
+	padding-top: 50px;
+}
+
+#info p {
+	color: #7e848e;
+}
+
+#info img {
+	margin-top: -60px;
+}
+
+#features h1 {
+	color: #3e434a;
+	padding: 20px 0;
+}
+
+#features h3 {
+	font-weight: 300;
+	color: #7e848e;
+	padding: 0 0 70px 0;
+}
+
+.img-pad {
+	padding-bottom: 13px;
+}
+
+#features {
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-color: #7e848e;
+}
+
+#features h4 {
+	color: #3e434a;
+	margin-top: 25px;
+}
+
+#features p {
+	color: #7e848e;
+	padding: 0 19px;
+}
+
+#features button {
+	margin: 5px 0 20px 0;
+}
+
+#testimonials h1 {
+	color: #3e434a;
+	padding-bottom: 30px;
+}
+
+#testimonials p {
+	color: #7e848e;
+	display: inline;
+}
+
+#testimonials img {
+	margin-top: 7px;
+	margin-bottom: 10px;
+}
+
+#testimonials span {
+	color: #3ba06f
+}
+
+#cta {
+	margin-top: 30px;
+	background: #2095bc;
+	color: #FFF;
+	padding: 45px 0;
+}
+
+#cta h3 {
+	color: #93ccdd;
+	margin-bottom: 30px;
+	font-weight: 300;
+}
+
+#cta button {
+	background: transparent;
+	color: #FFF;
+	padding: 11px 25px;
+}
+
+footer {
+	background: #3e434a;
+	color: #c6ccd3;
+}
+
+footer ul {
+	list-style-type: none;
+}
+
+.footer-head {
+	margin: 15px 0;
+	font-weight: 700;
+}
+
+footer li {
+	font-weight: 400;
+	font-size: 13px;
+	line-height: 25px;
+}
+
+footer a {
+	color: #c6ccd3;
+}
+
+footer input {
+	color: #000;
+	width: 170px;
+	height: 30px;
+	margin-top: 10px;
+}
+
+footer button {
+	background: #4c5059;
+	border-style: none;
+	height: 30px;
+	color: #bdc1ca;
+}
+
+#copy {
+	padding-bottom: 20px;
+}
+
