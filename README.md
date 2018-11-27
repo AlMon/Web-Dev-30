@@ -38,3 +38,8 @@ Each project folder contains all the original PSD files, as well as the sliced v
 ### Live URL: [Logo LP](http://wd7.surge.sh/)
 ------
 
+## Day #8 - Perth
+![Perth](Day%20%238%20-%20Perth/1.-%20Originals/Perth.jpg)
+### Live URL: [Perth](http://wd8.surge.sh/)
+------
+
