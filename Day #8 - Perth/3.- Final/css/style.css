@@ -1,0 +1,154 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+header {
+	background: url(../img/header.jpg);
+	color: #FFF;
+	height: 645px;
+	background-size: cover;
+}
+
+header h1 {
+	padding-top: 15%; 
+	font-family: 'Damion', cursive;
+	font-size: 75px;
+}
+
+#h-bt {
+	margin: 3% 20% 0 80%;
+	color: #FFF;
+	background: #62c2e8;
+	border-style: solid;
+	border-color: #FFF;
+	border-radius: 0;
+	border-width: 2px;
+	text-transform: uppercase;
+	padding: 1.8% 3%;
+	font-weight: bold;
+}
+
+#h-bt i {
+	padding-left: 7px;
+}
+
+#content1 {
+	background: url(../img/content1.jpg);
+	height: 645px;
+	background-size: cover;
+	color: #7f7f7f;
+}
+
+#content1 h1 {
+	color: #545454;
+	margin: 25% 0 0 0;
+}
+
+#content1 p {
+	padding-top: 35px;
+	font-weight: 600;
+	line-height: 25px;
+}
+
+#content1 blockquote {
+	border-left: 4px solid #4dacdc;
+	font-weight: 600;
+}
+
+#c1-bt {
+	color: #15ae8f;
+	background-color: transparent;
+	border-style: solid;
+	border-color: #15ae8f;
+	border-radius: 0;
+	border-width: 2px;
+	text-transform: uppercase;
+	padding: 2.8% 5%;
+	font-weight: bold;
+}
+
+#c1-bt i {
+	padding-left: 7px;
+}
+
+#content2 {
+	background: url(../img/content2.jpg);
+	height: 645px;
+	background-size: cover;
+	color: #7f7f7f;
+}
+
+#content2 h1 {
+	color: #545454;
+	margin: 25% 0 0 0;
+}
+
+#content2 p {
+	color: #545454;
+	margin: 5% 0 0 0;
+}
+
+#c2-bt {
+	background: transparent;
+	margin-top: 40px;
+	color: #ea4c89;
+	border-style: solid;
+	border-color: #ea4c89;
+	border-radius: 0;
+	border-width: 2px;
+	text-transform: uppercase;
+	padding: 2.8% 5%;
+	font-weight: bold;
+}
+
+#c2-bt i {
+	padding-left: 7px;
+	font-weight: bold;
+}
+
+#content3 {
+	background: url(../img/content3.jpg);
+	height: 245px;
+	background-size: cover;
+	color: #FFF;
+}
+
+#content3 h1 {
+	margin-top: 5%;
+}
+
+#c3-bt {
+	margin-top: 40px;
+	color: #FFF;
+	background: transparent;
+	border-style: solid;
+	border-color: #FFF;
+	border-radius: 0;
+	border-width: 2px;
+	text-transform: uppercase;
+	padding: 1.3% 3%;
+	font-weight: bold;
+}
+
+#c3-bt i {
+	padding-left: 15px;
+	font-weight: bold;
+}
+
+#social {
+	background: #b8b8be;
+	color: #FFF;
+	text-align: center;
+	height: 170px;
+	background-size: cover;
+}
+
+#social img {
+	padding: 5% 1%;
+}
+
+footer p {
+	padding: 1.5% 0 0.8% 0;
+	font-weight: bold;
+	font-size: 11px;
+}
