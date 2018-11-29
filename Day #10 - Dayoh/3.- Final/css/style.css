@@ -1,0 +1,134 @@
+html { 
+  background: url(../img/bg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body {
+	background: transparent;
+	font-family: 'Lato', sans-serif;
+}
+
+#one {
+	width: 100%;
+	height: 594px;
+}
+
+#intro {
+	color: #FFF;
+	padding: 10% 0 0 7%;
+	text-shadow: 0.1em 0.1em #333;
+}
+
+#intro h1 {
+	font-size: 50px;
+}
+
+#intro h4 {
+	font-size: 21px;
+}
+
+#intro img {
+	padding-top: 10px;
+}
+
+#iphone-s img {
+	padding: 26% 0 0 20%;
+}
+
+#two {
+	background: #FFF;
+	padding: 0 0;
+}
+
+#two .container .row div {
+	text-align: center;
+	padding-top: 25px;
+}
+
+.tw-st {
+	padding: 0 50px;
+	color: grey;
+	padding-bottom: 25px;
+}
+
+.tw-title {
+	font-size: 18px;
+	padding: 9px 0;
+	font-weight: 700;
+}
+
+#three {
+	background: #e8776b;
+	color: #FFF;
+}
+
+#bn {
+	margin-top: 18px;
+	margin-bottom: 17px;
+	background: transparent;
+	border-color: #FFF;
+	color: #FFF;
+	text-transform: uppercase;
+	font-weight: 700;
+}
+
+#four {
+	background: #5E95CD;
+	color: #FFF;
+}
+
+#mbp {
+	padding: 18% 0;
+}
+
+.fo-tt {
+	padding-top: 7%;
+}
+
+.fo-st {
+	margin-top: 4%;
+}
+
+#five {
+	color: #FFF;
+	text-shadow: 0.1em 0.1em #000;
+	margin: 20px 0;
+}
+
+#five .container .row {
+	padding-bottom: 25px;
+}
+
+#mail {
+	width: 400px;
+	max-width: 100%;
+	height: 39px;
+	font-size: 12px;
+}
+
+#su {
+	width: 100px;
+	max-width: 100%;
+	height: 39px;
+	color: #FFF;
+	border-style: none;
+	background: #5E95CD;
+	font-size: 12px;
+	font-weight: 700;
+}
+
+footer {
+	background: #e8776b;
+	color: #FFF;
+}
+
+#copy {
+	padding-top: 25px;
+}
+
+.social {
+	margin: 22px 5px;
+}
