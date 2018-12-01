@@ -59,3 +59,9 @@ Each project folder contains all the original PSD files, as well as the sliced v
 ### Live URL: [Webpaint](http://wd11.surge.sh/)
 ------
 
+## Day #12 - Party
+![Party](Day%20%2312%20-%20Party/1.-%20Originals/Party.png)
+### Live URL: [Party](http://wd12.surge.sh/)
+------
+
+
