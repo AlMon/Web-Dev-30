@@ -69,4 +69,10 @@ Each project folder contains all the original PSD files, as well as the sliced v
 ### Live URL: [Appz](http://wd13.surge.sh/)
 ------
 
+## Day #14 - White
+![White](Day%20%2314%20-%20White/1.-%20Originals/White.png)
+### Live URL: [White](http://wd14.surge.sh/)
+------
+
+
 
