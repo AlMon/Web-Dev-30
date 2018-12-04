@@ -1,0 +1,57 @@
+html { 
+  background: url(../img/bg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body {
+	font-family: 'Amatic SC', cursive;
+	text-align: center;
+	color: #FFF;
+}
+
+img {
+	margin-top: 3%;
+	max-width: 100%;
+}
+
+h1 {
+	font-size: 6em;
+	margin-top: -10px;
+	font-weight: 700;
+}
+
+h2 {
+	font-size: 3em;
+	margin-top: -70px;
+}
+
+form input {
+	margin-top: 1px;
+	height: 47px;
+	border-style: none;
+	width: 30%;
+	text-indent: 5%;
+	text-transform: uppercase;
+	font-family: 'Amatic SC', cursive;
+	font-size: 30px;
+}
+
+form button {
+	text-transform: uppercase;
+	font-family: 'Amatic SC', cursive;
+	margin-top: 1px;
+	height: 50px;
+	border-style: none;
+	margin-left: -20px;
+	width: 100px;
+	background: #01afec;
+	color: #FFF;
+	font-size: 30px;
+}
+
+p {
+	font-size: 23px;
+}
