@@ -79,5 +79,9 @@ Each project folder contains all the original PSD files, as well as the sliced v
 ### Live URL: [Hello!](http://wd15.surge.sh/)
 ------
 
+## Day #16 - Jack
+![Jack](Day%20%2316%20-%20Jack/1.-%20Originals/Jack.jpg)
+### Live URL: [Jack](http://wd16.surge.sh/)
+------
 
 
