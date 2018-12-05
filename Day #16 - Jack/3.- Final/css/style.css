@@ -1,0 +1,86 @@
+body {
+	color: #FFF;
+	text-transform: uppercase;
+	font-family: 'Lato', sans-serif;
+	width: 100%;
+}
+
+header { 
+	background: url(../img/header.jpg) no-repeat center center fixed; 
+	height: 700px;
+	color: #FFF;
+}
+
+header h1 {
+	padding: 200px 0 0 0;
+	font-size: 65px;
+	font-weight: 300;
+}
+
+header h1 span {
+	color: #fbf211;
+}
+
+#skills {
+	background: #282e3a;
+	color: #f1f2f4;
+	padding: 40px 0;
+}
+
+#skills img {
+	padding: 13px 15px 0 15px;
+}
+
+#skills h3 {
+	color: #fdf20d;
+	font-weight: 300;
+}
+
+#skills h4 {
+	text-transform: none;
+	padding: 10px 0 20px 13px;
+}
+
+#portfolio img:hover {
+	opacity: 0.5;
+    filter: alpha(opacity=40);
+}
+
+#btw {
+	background: #282e3a;
+	padding: 63px 0 75px 0;
+}
+
+#btw h1 {
+	font-weight: 300;
+	color: #fcf310;
+}
+
+#writing .row {
+	padding: 7px 0;
+}
+
+#writing h2 {
+	color: #464a55;
+	font-size: 25px;
+}
+
+#writing span {
+	color: #41c3f5;
+	margin-right: 20px;
+}
+
+footer {
+	background: #282e3a;
+	margin-top: 20px;
+}
+
+footer h3 {
+	color: #fef210;
+	font-weight: 300;
+	padding: 30px 0 50px 0;
+}
+
+footer img {
+	padding: 0 15px 80px 15px;
+}
