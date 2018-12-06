@@ -84,4 +84,8 @@ Each project folder contains all the original PSD files, as well as the sliced v
 ### Live URL: [Jack](http://wd16.surge.sh/)
 ------
 
+## Day #17 - Flat Style
+![Flat Style](Day%20%2317%20-%20Flat%20Style/1.-%20Originals/Flat%20Style.jpg)
+### Live URL: [Flat Style](http://wd17.surge.sh/)
+------
 
