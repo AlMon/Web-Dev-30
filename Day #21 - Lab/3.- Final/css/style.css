@@ -1,0 +1,58 @@
+body {
+	font-family: 'Lato', sans-serif;
+}
+
+nav {
+	background: #333333;
+}
+
+#logo {
+	padding: 22px 0;
+}
+
+nav a img {
+	padding: 15px 10px;
+}
+
+#gallery {
+	background: #333333;
+}
+
+#profile {
+	background: #ff6666;
+	padding: 2% 0;
+	font-size: 17px;
+}
+
+
+#p-mt {
+	margin-top: 13px;
+	color: #990000;
+	font-weight: 700;
+}
+
+#p-st {
+	color: #993333;
+	font-weight: 300;
+}
+
+#social {
+	background: #333333;
+	padding: 1% 0;
+	color: #666666;
+	font-weight: 300;
+}
+
+#social img {
+	padding: 10px 5px;
+}
+
+#s-mt {
+	font-size: 19px;
+	margin-top: 10px;
+}
+
+#s-st {
+	margin-top: 10px;
+	font-size: 17px;
+}
