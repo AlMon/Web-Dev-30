@@ -53,7 +53,6 @@ Each project folder contains all the original PSD files, as well as the sliced v
 ### Live URL: [Dayoh](http://wd10.surge.sh/)
 ------
 
-
 ## Day #11 - Webpaint
 ![Webpaint](Day%20%2311%20-%20Webpaint/1.-%20Originals/Webpaint.jpg)
 ### Live URL: [Webpaint](http://wd11.surge.sh/)
@@ -97,6 +96,11 @@ Each project folder contains all the original PSD files, as well as the sliced v
 ## Day #19 - Organic
 ![Organic](Day%20%2319%20-%20Organic/1.-%20Originals/Organic.jpg)
 ### Live URL: [Organic](http://wd19.surge.sh/)
+------
+
+## Day #20 - Cream
+![Cream](Day%20%2320%20-%20Cream/1.-%20Originals/Cream.png)
+### Live URL: [Cream](http://wd20.surge.sh/)
 ------
 
 
