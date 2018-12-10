@@ -1,0 +1,114 @@
+body {
+	font-family: 'Droid Sans', sans-serif;
+}
+
+header .container {
+	background: url(../img/header.jpg);
+	height: 500px;
+	background-repeat: no-repeat;
+	color: #FFF;
+}
+
+nav {
+	font-family: 'Carrois Gothic SC', sans-serif;
+	text-transform: uppercase;
+	padding: 2% 0;
+}
+
+nav p {
+	margin: 0 0 0 50%;
+}
+
+nav ul {
+	padding: 0 0 0 55%;
+}
+
+nav li {
+	display: inline;
+	padding: 0 15px;
+}
+
+nav li a {
+	color: #FFF;
+}
+
+nav li a:hover {
+	color: #e74c3c;
+}
+
+header h1 {
+	margin-top: 10%;
+}
+
+header .row button {
+	margin-top: 29%;
+	padding: 7px 29px;
+	color: #FFF;
+	background: #e74c3c;
+	border-radius: 0;
+	text-transform: uppercase;
+	border-style: solid;
+	border-width: 5px;
+	border-color: #FFF;
+}
+
+.features h1 {
+	text-transform: uppercase;
+	color: #e74c3c;
+	margin-top: 10%;
+	font-weight: 700;
+}
+
+.features h4 {
+	color: #e74c3c;
+	font-weight: 700;
+}
+
+.features p {
+	color: #93a5a7;
+	margin-top: 3%;
+}
+
+.features img {
+	margin: 29px 0 15px 0;
+}
+
+.features-p {
+	padding: 0 10%;
+	line-height: 23px;
+}
+
+.gallery img {
+	margin-top: 5%;
+	margin-bottom: 5%;
+	opacity: 0.5;
+}
+
+.gallery img:hover {
+	opacity: 1;
+}
+
+.gallery .row button {
+	margin-top: 29%;
+	margin-bottom: 7.5%;
+	padding: 7px 29px;
+	color: #FFF;
+	background: #e74c3c;
+	border-radius: 0;
+	text-transform: uppercase;
+	border-style: none;
+}
+
+footer {
+	background: #e74c3c;
+}
+
+footer a img {
+	margin: -4% 17% 0 0;
+	padding-left: 7%;
+}
+
+footer p {
+	margin: 5% 0;
+	color: #FFF;
+}
