@@ -103,5 +103,10 @@ Each project folder contains all the original PSD files, as well as the sliced v
 ### Live URL: [Cream](http://wd20.surge.sh/)
 ------
 
+## Day #21 - Lab
+![Lab](Day%20%2321%20-%20Lab/1.-%20Originals/Lab%20Template.jpg)
+### Live URL: [Lab](http://wd21.surge.sh/)
+------
+
 
 
