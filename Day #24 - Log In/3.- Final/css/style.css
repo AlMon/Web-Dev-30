@@ -1,0 +1,41 @@
+body {
+	background: #d3d7dd;
+	font-family: 'Varela Round', sans-serif;
+}
+
+#bg {
+	margin-top: 200px;
+	width: 322px;
+	height: 196px;
+	background: url("../img/bg.png");
+}
+
+#ml {
+	padding: 17px 0 0 21px;
+	font-weight: bold;
+}
+
+#su {
+	font-size: 10px;
+	color: grey;
+	float: right;
+	margin: -27px 10px 0 0;
+}
+
+#su a {
+	font-weight: bold;
+}
+
+#us {
+	color: grey;
+	margin: 22px 0 0 22px;
+}
+
+#pw {
+	color: grey;
+	margin: 22px 0 0 22px;
+}
+
+#button {
+	margin: 18px 0 0 225px;
+}
