@@ -1,0 +1,58 @@
+html { 
+  background: url(../img/bg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#logo {
+	padding: 100px 0 0 580px;
+}
+
+#title {
+	font-family: 'Source Sans Pro', sans-serif; font-weight: 200;
+	color: #FFF;
+	padding-left: 465px; 
+}
+
+#eform {
+	padding-top: 15px;
+}
+
+#email {
+	width: 350px;
+	height: 50px;
+	margin-left: 440px;
+	font-family: 'Source Sans Pro', sans-serif; font-weight: 400;
+	padding-left: 15px;
+	color: #d9d9d9;
+}
+
+#subscribe {
+	height: 54px;
+	width: 130px;
+	margin-left: -5px;
+	background-color: #fa9e27;
+	border-style: none;
+	color: white;
+	font-family: 'Source Sans Pro', sans-serif; font-weight: 400;
+}
+
+.social {
+	margin: 200px 0 0 610px;
+}
+
+.social > img {
+	padding-left: 10px
+}
+
+#signature {
+	text-align: center;
+	color: #FFF;
+	font-size: 12px;
+	padding-top: 20px;
+	font-family: 'Source Sans Pro', sans-serif; font-weight: 400;
+}
+
+/* Styled With Love by Al Mon */
