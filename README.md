@@ -123,5 +123,10 @@ Each project folder contains all the original PSD files, as well as the sliced v
 ### Live URL: [Log In](http://wd24.surge.sh/)
 ------
 
+## Day #25 - Fotos
+![Fotos](Day%20%2325%20-%20Fotos/1.-%20Originals/Fotos.png)
+### Live URL: [Fotos](http://wd25.surge.sh/)
+------
+
 
 
