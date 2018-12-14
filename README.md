@@ -128,5 +128,9 @@ Each project folder contains all the original PSD files, as well as the sliced v
 ### Live URL: [Fotos](http://wd25.surge.sh/)
 ------
 
+## Day #26 - Lite Mail
+![Lite Mail](Day%20%2326%20-%20Lite%20Mail/1.-%20Originals/Lite%20Email.jpg)
+### Live URL: [Lite Mail](http://wd26.surge.sh/)
+------
 
 
