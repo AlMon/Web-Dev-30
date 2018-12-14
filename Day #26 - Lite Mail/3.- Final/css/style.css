@@ -1,0 +1,38 @@
+html {
+background:url(../img/bg.jpg) no-repeat center center fixed;
+-webkit-background-size:cover;
+-moz-background-size:cover;
+-o-background-size:cover;
+background-size:cover;
+}
+
+body {
+background:transparent;
+}
+
+#eform {
+margin:300px 350px;
+}
+
+#mail {
+border-radius:0;
+width:300px;
+text-transform:uppercase;
+height:50px;
+font-weight:700;
+font-size:11px;
+border-style:none;
+}
+
+#su {
+background:#38b072;
+color:#FFF;
+border-radius:0;
+width:125px;
+height:50px;
+margin-left:-10px;
+font-weight:700;
+font-size:11px;
+border-style:none;
+}
+
