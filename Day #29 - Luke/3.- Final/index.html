@@ -1,0 +1,100 @@
+<!DOCTYPE HTML>
+<html>
+
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>
+			Luke
+		</title>
+		<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+		<link rel="stylesheet" href="css/style.css">
+		<link href='http://fonts.googleapis.com/css?family=Varela+Round' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
+	</head>
+
+	<body>
+		
+		<header>
+			<div class="container">
+				<div class="row">
+					<div class="col-xs-12 col-sm-offset-2 col-md-offset-2 col-lg-offset-2 col-sm-4 col-md-4 col-lg-4">
+						<h1>Digital <br> Composition</h1>
+					</div>
+					<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+						<p id="countdown"></p>
+					</div>
+				</div>
+			</div>
+		</header>
+
+		<div class="container content">
+			<div class="row">
+				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center">
+					<p>Hey, Luke! May the Force be with you. Obi-Wan is here. <br> The Force is with him.</p>
+				</div>
+			</div>
+		</div>
+
+		<div class="email">
+			<div class="container">
+				<div class="row">
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center">
+						<form action="#">
+							<input type="email" placeholder="Your Email">
+							<button>Sign Up</button>
+						</form>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="social">
+			<div class="container">
+				<div class="row">
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center">
+						<a href="#"><img src="img/twitter.png" alt="Twitter"></a>
+						<a href="#"><img src="img/facebook.png" alt="Facebook"></a>
+						<a href="#"><img src="img/gplus.png" alt="Google plus"></a>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<!-- JS Scripts -->
+		<script>
+			// set the date we're counting down to
+			var target_date = new Date("Aug 15, 2014").getTime();
+ 
+			// variables for time units
+			var days, hours, minutes, seconds;
+ 
+			// get tag element
+			var countdown = document.getElementById("countdown");
+ 
+			// update the tag with id "countdown" every 1 second
+			setInterval(function () {
+ 
+    		// find the amount of "seconds" between now and target
+    		var current_date = new Date().getTime();
+    		var seconds_left = (target_date - current_date) / 1000;
+ 
+    		// do some time calculations
+    		days = parseInt(seconds_left / 86400);
+    		seconds_left = seconds_left % 86400;
+     
+    		hours = parseInt(seconds_left / 3600);
+    		seconds_left = seconds_left % 3600;
+     
+    		minutes = parseInt(seconds_left / 60);
+    		seconds = parseInt(seconds_left % 60);
+     
+    		// format countdown string + set tag value
+    		countdown.innerHTML = days + "d " + hours + "h "
+    		+ minutes + "m " + seconds + "s";  
+ 
+			}, 1000);
+		</script>
+		
+	</body>
+</html>

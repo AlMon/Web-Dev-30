@@ -1,0 +1,70 @@
+html { 
+  background: url(../img/bg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body {
+	background: transparent;
+	font-family: 'Lato', sans-serif;
+	color: #FFF;
+}
+
+header {
+	margin-top: 10%;
+	background: url(../img/header.png);
+	padding-bottom: 1%;
+}
+
+header h1 {
+	text-transform: uppercase;
+	font-size: 35px;
+	font-weight: 700;
+}
+
+#countdown {
+	margin-top: 6%;
+	text-transform: uppercase;
+	font-size: 35px;
+	font-weight: 700;
+}
+
+.content p {
+	margin-top: 0.5%;
+	color: #eaeaea;
+	font-size: 20px;
+}
+
+.email {
+	font-family: 'Varela Round', sans-serif;
+	padding-top: 5%;
+}
+
+.email input {
+	height: 50px;
+	width: 39%;
+	border: none;
+	background: url(../img/sign-up.png);
+	text-indent: 5%;
+	text-transform: uppercase;
+}
+
+.email button {
+	height: 50px;
+	background: #61bed9;
+	text-transform: uppercase;
+	border: none;
+	margin-left: -9%;
+	width: 100px;
+	font-weight: bold;
+}
+
+.social {
+	padding: 3% 0;
+}
+
+.social img {
+	margin: 1% 0.7%;
+}
