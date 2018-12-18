@@ -148,4 +148,7 @@ Each project folder contains all the original PSD files, as well as the sliced v
 ### Live URL: [Luke](http://wd29.surge.sh/)
 ------
 
-
+## Day #30 - Two Bytes
+![Two Bytes](Day%20%2330%20-%20Two%20Bytes/1.-%20Originals/Two%20Bytes.jpg)
+### Live URL: [Two Bytes](http://wd30.surge.sh/)
+------
