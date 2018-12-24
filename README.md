@@ -1,5 +1,5 @@
 # Web Dev 30
-A repository for the Web Dev 30 project. I took a PSD file and created a website out of it each day for 30 consecutive days using Bootstrap. 
+A repository for the Web Dev 30 project. I took a PSD file and created a website out of it each day for 30 consecutive days using the Bootstrap framework. 
 
 Each project folder contains all the original PSD files, as well as the sliced version of them alongside the HTML/CSS/JS for every website. 
 
